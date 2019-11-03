@@ -18,7 +18,8 @@
     },
     {
       "id": 2,
-      "titulo": "O Chorinho Brasileiro",      
+      "titulo": "O Chorinho Brasileiro",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-891830-75-4",
       "autor": "Renato Thomaz da Silva",
       "editora": "Editora Inova",
