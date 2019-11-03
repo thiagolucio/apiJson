@@ -3,7 +3,7 @@
     {
       "id": 1,
       "titulo": "As aventuras de um Piolho Cego",
-      "url": "http://www.topshelfcomix.com/catalog/covers/aeiou_lg.gif",
+      "img": "http://www.topshelfcomix.com/catalog/covers/aeiou_lg.gif",
       "isbn": "978-85-333-0227-3",
       "autor": "Camilo dos Santos Ferreira",
       "editora": "Editora Abril",
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "titulo": "O Chorinho Brasileiro",
-      "url": "http://www.topshelfcomix.com/catalog/covers/any_empire_cover_sm_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/any_empire_cover_sm_lg.jpg",
       "isbn": "978-1-891830-75-4",
       "autor": "Renato Thomaz da Silva",
       "editora": "Editora Inova",
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "titulo": "A técnica extrema do Go Horse",
-      "url": "http://www.topshelfcomix.com/catalog/covers/beachsafari_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/beachsafari_lg.jpg",
       "isbn": "978-1-60309-050-6",
       "autor": "Andrey dos Santos",
       "editora": "Editora Eficaz",
@@ -51,7 +51,7 @@
     {
       "id": 4,
       "titulo": "Tempo perdido com coisas sem sentido",
-      "url": "http://www.topshelfcomix.com/catalog/covers/boxofficepoison-03-cvrmock_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/boxofficepoison-03-cvrmock_lg.jpg",
       "isbn": "978-1-891830-71-6",
       "autor": "Olga Moraes dos Santos",
       "editora": "Editora Escandinávia",
@@ -67,7 +67,7 @@
     {
       "id": 5,
       "titulo": "Como valorizar o que é importante",
-      "url": "http://www.topshelfcomix.com/catalog/covers/boxofficepoison-01-cvr_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/boxofficepoison-01-cvr_lg.jpg",
       "isbn": "978-1-60309-025-4",
       "autor": "Tatsumoto Origami",
       "editora": "Editora Jakuzi",
@@ -83,7 +83,7 @@
     {
       "id": 6,
       "titulo": "Jurassic Park 18",
-      "url": "http://www.topshelfcomix.com/catalog/covers/cosmoknights_book_one_cover_sm_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/cosmoknights_book_one_cover_sm_lg.jpg",
       "isbn": "978-1-60309-047-6",
       "autor": "Roger P. Sanders",
       "editora": "Editora Zinabre",
@@ -99,7 +99,7 @@
     {
       "id": 7,
       "titulo": "Tentativas e fracassos",
-      "url": "http://www.topshelfcomix.com/catalog/covers/cat_n_bat_cover_sm_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/cat_n_bat_cover_sm_lg.jpg",
       "isbn": "978-1-60309-322-4",
       "autor": "Sr. Madruga",
       "editora": "Editora SBT",
@@ -115,7 +115,7 @@
     {
       "id": 8,
       "titulo": "Alexandre de Barros, um Homem que escreveu sobre alguma coisa",
-      "url": "http://www.topshelfcomix.com/catalog/covers/death_by_chocolate_cover_lg.gif",
+      "img": "http://www.topshelfcomix.com/catalog/covers/death_by_chocolate_cover_lg.gif",
       "isbn": "978-1-891830-85-3",
       "autor": "Alexandre de Barros",
       "editora": "Editora AB",
@@ -131,7 +131,7 @@
     {
       "id": 9,
       "titulo": "O fim dos tempos",
-      "url": "http://www.topshelfcomix.com/catalog/covers/fromhellmastered04-cov_1000pxht_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/fromhellmastered04-cov_1000pxht_lg.jpg",
       "isbn": "978-1-60309-016-2",
       "autor": "Luiz Inácio Lula da Silva",
       "editora": "Editora PT",
@@ -147,7 +147,7 @@
     {
       "id": 10,
       "titulo": "Dominando o Twitter",
-      "url": "http://www.topshelfcomix.com/catalog/covers/far_arden_cover_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/far_arden_cover_lg.jpg",
       "isbn": "978-1-60309-265-4",
       "autor": "Jaír Messias Bolsonaro",
       "editora": "Editora Deus acima de tudo",
@@ -163,7 +163,7 @@
     {
       "id": 11,
       "titulo": "A Copa do Mundo, um retrato da verdade",
-      "url": "http://www.topshelfcomix.com/catalog/covers/fromhellmastered06-cov_1000pxht_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/fromhellmastered06-cov_1000pxht_lg.jpg",
       "isbn": "978-1-60309-2395",
       "autor": "Ronaldo Fenômeno",
       "editora": "Editora Pedro Bial",
@@ -179,7 +179,7 @@
     {
       "id": 12,
       "titulo": "Porque o Coacher é uma maldição",
-      "url": "http://www.topshelfcomix.com/catalog/covers/gumballs-collection-150dpi_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/gumballs-collection-150dpi_lg.jpg",
       "isbn": "978-1-60309-077-3",
       "autor": "Matando Matheus à Grito",
       "editora": "Editora Rossi",
@@ -195,7 +195,7 @@
     {
       "id": 13,
       "titulo": "Entendo o funcionamento do Corpo Humano",
-      "url": "http://www.topshelfcomix.com/catalog/covers/her-bark-cover_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/her-bark-cover_lg.jpg",
       "isbn": "978-1-60309-369-9",
       "autor": "Professora Renata Porciúncula",
       "editora": "Editora Jamaisví",
@@ -211,7 +211,7 @@
     {
       "id": 14,
       "titulo": "Meu precioso",
-      "url": "http://www.topshelfcomix.com/catalog/covers/her-bark-cover_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/her-bark-cover_lg.jpg",
       "isbn": "978-1-60309-069-8",
       "autor": "Bilbo Bolseiro",
       "editora": "Editora Tolkien",
@@ -227,7 +227,7 @@
     {
       "id": 15,
       "titulo": "Anos Dourados",
-      "url": "http://www.topshelfcomix.com/catalog/covers/i_am_a_number_cover_sm_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/i_am_a_number_cover_sm_lg.jpg",
       "isbn": "978-1-60309-042-1",
       "autor": "Tutam Kamon",
       "editora": "Editora Egipcia",
@@ -243,7 +243,7 @@
     {
       "id": 16,
       "titulo": "Como aparecer bastante em um evento",
-      "url": "http://www.topshelfcomix.com/catalog/covers/infinite_kungfu_cover_sm_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/infinite_kungfu_cover_sm_lg.jpg",
       "isbn": "978-1-60309-026-1",
       "autor": "Cláudia Leite",
       "editora": "Editora Sangallo",
@@ -259,7 +259,7 @@
     {
       "id": 17,
       "titulo": "Como ficar um maluco Beleza",
-      "url": "http://www.topshelfcomix.com/catalog/covers/incredible_change_bots_cover_gif_lg.gif",
+      "img": "http://www.topshelfcomix.com/catalog/covers/incredible_change_bots_cover_gif_lg.gif",
       "isbn": "978-1-60309-380-4",
       "autor": "Raul Seixas",
       "editora": "Editora Mesqueci",
@@ -275,7 +275,7 @@
     {
       "id": 18,
       "titulo": "A Gentileza do Coração",
-      "url": "http://www.topshelfcomix.com/catalog/covers/johnny-boo-book-9-cover_400pxwide_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/johnny-boo-book-9-cover_400pxwide_lg.jpg",
       "isbn": "978-1-60309-027-8",
       "autor": "Delegado Portanova",
       "editora": "Editora Catarinense",
@@ -291,7 +291,7 @@
     {
       "id": 19,
       "titulo": "Fazendo testes e cruzando os dedos",
-      "url": "http://www.topshelfcomix.com/catalog/covers/league1969coverssm_lg.gif",
+      "img": "http://www.topshelfcomix.com/catalog/covers/league1969coverssm_lg.gif",
       "isbn": "978-1-60309-405-4",
       "autor": "Thiago Lúcio Bittencourt",
       "editora": "Editora Sofrimento",
@@ -307,7 +307,7 @@
     {
       "id": 20,
       "titulo": "Meu segundo amor",
-      "url": "http://www.topshelfcomix.com/catalog/covers/loegv3centurybc-fc_sm_copy1_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/loegv3centurybc-fc_sm_copy1_lg.jpg",
       "isbn": "978-1-891830-37-2",
       "autor": "Pedro de Lara",
       "editora": "Editora SBT",
@@ -323,7 +323,7 @@
     {
       "id": 21,
       "titulo": "Quem sabe faz ao Vivo",
-      "url": "http://www.topshelfcomix.com/catalog/covers/loneracer_lg.gif",
+      "img": "http://www.topshelfcomix.com/catalog/covers/loneracer_lg.gif",
       "isbn": "978-1-60309-029-2",
       "autor": "Linux Trovaus",
       "editora": "Editora Debian",
@@ -339,7 +339,7 @@
     {
       "id": 22,
       "titulo": "Gerenciamento times de alta performance",
-      "url": "http://www.topshelfcomix.com/catalog/covers/lovely_horrible_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/lovely_horrible_lg.jpg",
       "isbn": "978-1-891830-40-2",
       "autor": "Edgar Alan Poe",
       "editora": "Editora Avanti",
@@ -355,7 +355,7 @@
     {
       "id": 23,
       "titulo": "Perdendo tudo",
-      "url": "http://www.topshelfcomix.com/catalog/covers/covercolorfinal_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/covercolorfinal_lg.jpg",
       "isbn": "978-1-60309-442-9",
       "autor": "Eike Baptista",
       "editora": "Editora Rico",
@@ -371,7 +371,7 @@
     {
       "id": 24,
       "titulo": "O Jogo do Poder",
-      "url": "http://www.topshelfcomix.com/catalog/covers/march_book_two_72dpi_copy0_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/march_book_two_72dpi_copy0_lg.jpg",
       "isbn": "978-1-891830-56-3",
       "autor": "Frank Underwood",
       "editora": "Editora Whashington",
@@ -387,7 +387,7 @@
     {
       "id": 25,
       "titulo": "Mandando no Jogo",
-      "url": "http://www.topshelfcomix.com/catalog/covers/penny_nichols_cover_jpg_lg.jpg",
+      "img": "http://www.topshelfcomix.com/catalog/covers/penny_nichols_cover_jpg_lg.jpg",
       "isbn": "978-1-60309-432-0",
       "autor": "Marcelo Odebretch",
       "editora": "Editora Odebretch",
