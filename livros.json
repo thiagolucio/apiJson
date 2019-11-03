@@ -259,6 +259,7 @@
     {
       "id": 17,
       "titulo": "Como ficar um maluco Beleza",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-380-4",
       "autor": "Raul Seixas",
       "editora": "Editora Mesqueci",
@@ -274,6 +275,7 @@
     {
       "id": 18,
       "titulo": "A Gentileza do Coração",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-027-8",
       "autor": "Delegado Portanova",
       "editora": "Editora Catarinense",
@@ -289,6 +291,7 @@
     {
       "id": 19,
       "titulo": "Fazendo testes e cruzando os dedos",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-405-4",
       "autor": "Thiago Lúcio Bittencourt",
       "editora": "Editora Sofrimento",
@@ -304,6 +307,7 @@
     {
       "id": 20,
       "titulo": "Meu segundo amor",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-891830-37-2",
       "autor": "Pedro de Lara",
       "editora": "Editora SBT",
