@@ -163,6 +163,7 @@
     {
       "id": 11,
       "titulo": "A Copa do Mundo, um retrato da verdade",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-2395",
       "autor": "Ronaldo Fenômeno",
       "editora": "Editora Pedro Bial",
@@ -178,6 +179,7 @@
     {
       "id": 12,
       "titulo": "Porque o Coacher é uma maldição",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-077-3",
       "autor": "Matando Matheus à Grito",
       "editora": "Editora Rossi",
@@ -193,6 +195,7 @@
     {
       "id": 13,
       "titulo": "Entendo o funcionamento do Corpo Humano",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-369-9",
       "autor": "Professora Renata Porciúncula",
       "editora": "Editora Jamaisví",
@@ -208,6 +211,7 @@
     {
       "id": 14,
       "titulo": "Meu precioso",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-069-8",
       "autor": "Bilbo Bolseiro",
       "editora": "Editora Tolkien",
@@ -223,6 +227,7 @@
     {
       "id": 15,
       "titulo": "Anos Dourados",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-042-1",
       "autor": "Tutam Kamon",
       "editora": "Editora Egipcia",
