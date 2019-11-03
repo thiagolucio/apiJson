@@ -34,7 +34,8 @@
     },
     {
       "id": 3,
-      "titulo": "A técnica extrema do Go Horse",      
+      "titulo": "A técnica extrema do Go Horse",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-050-6",
       "autor": "Andrey dos Santos",
       "editora": "Editora Eficaz",
@@ -49,7 +50,8 @@
     },
     {
       "id": 4,
-      "titulo": "Tempo perdido com coisas sem sentido",      
+      "titulo": "Tempo perdido com coisas sem sentido",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-891830-71-6",
       "autor": "Olga Moraes dos Santos",
       "editora": "Editora Escandinávia",
@@ -64,7 +66,8 @@
     },
     {
       "id": 5,
-      "titulo": "Como valorizar o que é importante",      
+      "titulo": "Como valorizar o que é importante",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-025-4",
       "autor": "Tatsumoto Origami",
       "editora": "Editora Jakuzi",
