@@ -82,7 +82,8 @@
     },
     {
       "id": 6,
-      "titulo": "Jurassic Park 18",      
+      "titulo": "Jurassic Park 18",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-047-6",
       "autor": "Roger P. Sanders",
       "editora": "Editora Zinabre",
@@ -97,7 +98,8 @@
     },
     {
       "id": 7,
-      "titulo": "Tentativas e fracassos",      
+      "titulo": "Tentativas e fracassos",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-322-4",
       "autor": "Sr. Madruga",
       "editora": "Editora SBT",
@@ -112,7 +114,8 @@
     },
     {
       "id": 8,
-      "titulo": "Alexandre de Barros, um Homem que escreveu sobre alguma coisa",      
+      "titulo": "Alexandre de Barros, um Homem que escreveu sobre alguma coisa",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-891830-85-3",
       "autor": "Alexandre de Barros",
       "editora": "Editora AB",
@@ -128,6 +131,7 @@
     {
       "id": 9,
       "titulo": "O fim dos tempos",      
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-016-2",
       "autor": "Luiz Inácio Lula da Silva",
       "editora": "Editora PT",
@@ -142,7 +146,8 @@
     },
     {
       "id": 10,
-      "titulo": "Dominando o Twitter",      
+      "titulo": "Dominando o Twitter",
+      "img": "http://thiagolucio.com.br/images/imagem.jpg",
       "isbn": "978-1-60309-265-4",
       "autor": "Jaír Messias Bolsonaro",
       "editora": "Editora Deus acima de tudo",
