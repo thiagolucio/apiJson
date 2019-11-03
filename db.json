@@ -18,8 +18,7 @@
     },
     {
       "id": 2,
-      "titulo": "O Chorinho Brasileiro",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "O Chorinho Brasileiro",      
       "isbn": "978-1-891830-75-4",
       "autor": "Renato Thomaz da Silva",
       "editora": "Editora Inova",
@@ -34,8 +33,7 @@
     },
     {
       "id": 3,
-      "titulo": "A técnica extrema do Go Horse",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "A técnica extrema do Go Horse",      
       "isbn": "978-1-60309-050-6",
       "autor": "Andrey dos Santos",
       "editora": "Editora Eficaz",
@@ -50,8 +48,7 @@
     },
     {
       "id": 4,
-      "titulo": "Tempo perdido com coisas sem sentido",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "Tempo perdido com coisas sem sentido",      
       "isbn": "978-1-891830-71-6",
       "autor": "Olga Moraes dos Santos",
       "editora": "Editora Escandinávia",
@@ -66,8 +63,7 @@
     },
     {
       "id": 5,
-      "titulo": "Como valorizar o que é importante",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "Como valorizar o que é importante",      
       "isbn": "978-1-60309-025-4",
       "autor": "Tatsumoto Origami",
       "editora": "Editora Jakuzi",
@@ -82,8 +78,7 @@
     },
     {
       "id": 6,
-      "titulo": "Jurassic Park 18",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "Jurassic Park 18",      
       "isbn": "978-1-60309-047-6",
       "autor": "Roger P. Sanders",
       "editora": "Editora Zinabre",
@@ -98,8 +93,7 @@
     },
     {
       "id": 7,
-      "titulo": "Tentativas e fracassos",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "Tentativas e fracassos",      
       "isbn": "978-1-60309-322-4",
       "autor": "Sr. Madruga",
       "editora": "Editora SBT",
@@ -114,8 +108,7 @@
     },
     {
       "id": 8,
-      "titulo": "Alexandre de Barros, um Homem que escreveu sobre alguma coisa",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "Alexandre de Barros, um Homem que escreveu sobre alguma coisa",      
       "isbn": "978-1-891830-85-3",
       "autor": "Alexandre de Barros",
       "editora": "Editora AB",
@@ -130,8 +123,7 @@
     },
     {
       "id": 9,
-      "titulo": "O fim dos tempos",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "O fim dos tempos",      
       "isbn": "978-1-60309-016-2",
       "autor": "Luiz Inácio Lula da Silva",
       "editora": "Editora PT",
@@ -146,8 +138,7 @@
     },
     {
       "id": 10,
-      "titulo": "Dominando o Twitter",
-      "img": "http://thiagolucio.com.br/images/imagem.jpg",
+      "titulo": "Dominando o Twitter",      
       "isbn": "978-1-60309-265-4",
       "autor": "Jaír Messias Bolsonaro",
       "editora": "Editora Deus acima de tudo",
