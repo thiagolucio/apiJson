@@ -1,0 +1,17 @@
+[
+  {
+    "id":2,
+    "nome":"thiago lucio",
+    "email":"thiagolucio@gmail.com"
+  },
+    {
+    "id":3,
+    "nome":"Raquel Gouvea",
+    "email":"welraquel@gmail.com"
+  },
+      {
+    "id":4,
+    "nome":"Marley Wislow",
+    "email":"theCat@gmail.com"
+  }  
+]

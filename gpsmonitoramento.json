@@ -1,0 +1,153 @@
+[{ 
+  "situacaoNotificacao": "Lia",
+  "status": "Reprovado",
+  "alerta": {
+    "dataLembrete": "2017-12-12",
+    "tipoAlerta": "Motivo do Contato",
+    "prioridade": "Baixa"
+  },
+  "guia": {
+    "id": 1113,
+    "tipo": "SADT",
+    "dataPreenchimento": "2017-12-12", 
+    "dataUltimaConsulta": "2018-02-01", 
+    "dataProximaConsulta": "2018-02-25", 
+    "dataUltimaAtualizacaoCadastral": "2018-02-20", 
+    "complexidade": "Sem Complexidade",
+    "interloctor": "Sem interloctor",
+    "beneficiario": {
+      "id": 5,
+      "nome": "Homem adulto 30 anos",
+      "cpf": 99999999999,
+      "numeroCarteira": "123456789",
+      "numeroCns": null,
+      "telefone": "88888888",
+      "sexo": null,
+      "idade": 55,
+      "email": "teste@teste.com"
+    },
+    "planoCuidado": {
+      "tsh": "1 vez a cada 5 anos",
+      "giloemia": "2 vezes por ano",      
+      "ecocardiograma": "1 vez a cadas dois anos",
+      "hemograma": "1 vez por ano",
+      "ureia": "1 vez por ano",
+      "clineo": "2 vez por ano"
+    }
+  }
+},
+{ 
+  "situacaoNotificacao": "Agendamento",
+  "status": "Aprovado",
+  "alerta": {
+    "dataLembrete": "2017-12-12",
+    "tipoAlerta": "Motivo do Contato",
+    "prioridade": "Alta"
+  },
+  "guia": {
+    "id": 1113,
+    "tipo": "SADT",
+    "dataPreenchimento": "2017-12-12", 
+    "dataUltimaConsulta": "2018-02-01", 
+    "dataProximaConsulta": "2018-02-25", 
+    "dataUltimaAtualizacaoCadastral": "2018-02-20", 
+    "complexidade": "Sem Complexidade",
+    "interloctor": "Sem interloctor",
+    "beneficiario": {
+      "id": 5,
+      "nome": "Homem adulto 30 anos",
+      "cpf": 99999999999,
+      "numeroCarteira": "123456789",
+      "numeroCns": null,
+      "telefone": "844455665",
+      "sexo": null,
+      "idade": 55,
+      "email": "teste@teste.com"
+    },
+    "planoCuidado": {
+      "tsh": "1 vez a cada 5 anos",
+      "giloemia": "2 vezes por ano",      
+      "ecocardiograma": "1 vez a cadas dois anos",
+      "hemograma": "1 vez por ano",
+      "ureia": "1 vez por ano",
+      "clineo": "2 vez por ano"
+    }
+  }
+},
+{ 
+  "situacaoNotificacao": "Automático",
+  "status": "Aprovado",
+  "alerta": {
+    "dataLembrete": "2017-12-12",
+    "tipoAlerta": "Motivo do Contato",
+    "prioridade": "Alta"
+  },
+  "guia": {
+    "id": 1113,
+    "tipo": "SADT",
+    "dataPreenchimento": "2017-12-12", 
+    "dataUltimaConsulta": "2018-02-01", 
+    "dataProximaConsulta": "2018-02-25", 
+    "dataUltimaAtualizacaoCadastral": "2018-02-20", 
+    "complexidade": "Sem Complexidade",
+    "interloctor": "Sem interloctor",
+    "beneficiario": {
+      "id": 5,
+      "nome": "Homem adulto 60 anos",
+      "cpf": 99999999999,
+      "numeroCarteira": "123456789",
+      "numeroCns": null,
+      "telefone": "844455665",
+      "sexo": null,
+      "idade": 55,
+      "email": "teste@teste.com"
+    },
+    "planoCuidado": {
+      "tsh": "1 vez a cada 5 anos",
+      "giloemia": "2 vezes por ano",      
+      "ecocardiograma": "1 vez a cadas dois anos",
+      "hemograma": "1 vez por ano",
+      "ureia": "1 vez por ano",
+      "clineo": "2 vez por ano"
+    }
+  }
+},
+{ 
+  "situacaoNotificacao": "Automático",
+  "status": "Aprovado",
+  "alerta": {
+    "dataLembrete": "2017-12-12",
+    "tipoAlerta": "Motivo do Contato",
+    "prioridade": "Alta"
+  },
+  "guia": {
+    "id": 1113,
+    "tipo": "SADT",
+    "dataPreenchimento": "2017-12-12", 
+    "dataUltimaConsulta": "2018-02-01", 
+    "dataProximaConsulta": "2018-02-25", 
+    "dataUltimaAtualizacaoCadastral": "2018-02-20", 
+    "complexidade": "Sem Complexidade",
+    "interloctor": "Sem interloctor",
+    "beneficiario": {
+      "id": 5,
+      "nome": "Homem adulto 60 anos",
+      "cpf": 99999999999,
+      "numeroCarteira": "123456789",
+      "numeroCns": null,
+      "telefone": "844455665",
+      "sexo": null,
+      "idade": 55,
+      "email": "teste@teste.com"
+    },
+    "planoCuidado": {
+      "tsh": "1 vez a cada 5 anos",
+      "giloemia": "2 vezes por ano",      
+      "ecocardiograma": "1 vez a cadas dois anos",
+      "hemograma": "1 vez por ano",
+      "ureia": "1 vez por ano",
+      "clineo": "2 vez por ano"
+    }
+  }
+}
+]

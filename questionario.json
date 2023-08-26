@@ -1,0 +1,2330 @@
+{
+    "cdQuestionario": 2,
+    "TipoQuestionario": 2,
+    "cdEmpresa": 14253,
+    "Ativo": true,
+    "ItensQuestionario": [
+        {
+            "TipoAvaliacao": {
+                "cdTipoAvaliacao": 100138,
+                "Nome": "[GAMA] Portal - Sua saúde",
+                "Perguntas": [
+                    {
+                        "cdPergunta": 104597,
+                        "Titulo": "Qual o seu peso (kg) ?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 1,
+                        "Ativo": true,
+                        "TipoPergunta": 20,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114112,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": 104558,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104597,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "20",
+                                "ValorMaximo": "500"
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104558,
+                        "Titulo": "Qual a sua altura (cm)?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 2,
+                        "Ativo": true,
+                        "TipoPergunta": 19,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113955,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": 104559,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104558,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "50",
+                                "ValorMaximo": "230"
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104559,
+                        "Titulo": "Pressão arterial máxima (mmhg)",
+                        "Descricao": "É o primeiro número da aferição da pressão arterial. Costuma-se chamar de 12 por 8, mas a forma correta é 120 por 80.",
+                        "Obrigatorio": false,
+                        "Ordem": 3,
+                        "Ativo": true,
+                        "TipoPergunta": 5,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113956,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": 104560,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104559,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "50",
+                                "ValorMaximo": "250"
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104560,
+                        "Titulo": "Pressão arterial mínima (mmhg)",
+                        "Descricao": "É o segundo número da aferição da pressão arterial. A pressão arterial costuma-se chamar de 12 por 8, mas a forma correta é 120 por 80.",
+                        "Obrigatorio": false,
+                        "Ordem": 4,
+                        "Ativo": true,
+                        "TipoPergunta": 5,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113957,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": 104561,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104560,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "40",
+                                "ValorMaximo": "160"
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104561,
+                        "Titulo": "Circunferencia abdominal (cm)",
+                        "Descricao": "Como medir? Mantendo a barriga relaxada, passe uma fita métrica em torno do abdômen, na altura do umbigo.",
+                        "Obrigatorio": false,
+                        "Ordem": 5,
+                        "Ativo": true,
+                        "TipoPergunta": 19,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113958,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": 104562,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104561,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "30",
+                                "ValorMaximo": "300"
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104562,
+                        "Titulo": "Hoje, de forma geral, como você classifica a sua saúde?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 6,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113959,
+                                "Descricao": "Muito boa",
+                                "cdPerguntaDesvio": 104563,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104562,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113960,
+                                "Descricao": "Boa",
+                                "cdPerguntaDesvio": 104563,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104562,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113961,
+                                "Descricao": "Regular",
+                                "cdPerguntaDesvio": 104563,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104562,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113962,
+                                "Descricao": "Ruim",
+                                "cdPerguntaDesvio": 104563,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104562,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104563,
+                        "Titulo": "Atualmente, você faz tratamento ou acompanhamento para alguma doença ou condição abaixo:",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 7,
+                        "Ativo": true,
+                        "TipoPergunta": 2,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113964,
+                                "Descricao": "Diabetes Mellitus",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113965,
+                                "Descricao": "Hipertensão arterial",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113966,
+                                "Descricao": "Doença cardiovascular",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113967,
+                                "Descricao": "Alteração do colesterol ou Triglicérides",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113968,
+                                "Descricao": "Doenças pulmonares (Asma, Bronquite ou Enfisema)",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113969,
+                                "Descricao": "Alteração emocional - depressão, ansiedade e estresse",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113970,
+                                "Descricao": "Problemas ortopédicos (coluna, joelho entre outros) ou musculares",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113971,
+                                "Descricao": "Insuficiência renal crônica",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113973,
+                                "Descricao": "Câncer de próstata",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113974,
+                                "Descricao": "Câncer de intestino",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113976,
+                                "Descricao": "Acidente vascular cerebral (Derrame)",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113977,
+                                "Descricao": "Colite ulcerativa ou doença de chron",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113978,
+                                "Descricao": "Outras",
+                                "cdPerguntaDesvio": 104564,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113979,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104563,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104564,
+                        "Titulo": "Qual outra condição de saúde voce possui?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 8,
+                        "Ativo": true,
+                        "TipoPergunta": 4,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113980,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": 104565,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104564,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104565,
+                        "Titulo": "Seus pais possuem diagnóstico ou fazem algum tratamento de saúde?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 9,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113981,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104566,
+                                "cdTipoAvaliacaoDesvio": 100138,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104565,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113982,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104565,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104566,
+                        "Titulo": "Quais as doenças ou condições seus pais possuem?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 10,
+                        "Ativo": true,
+                        "TipoPergunta": 2,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113983,
+                                "Descricao": "Diabetes Mellitus",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113984,
+                                "Descricao": "Hipertensão arterial",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113985,
+                                "Descricao": "Doença cardiovascular",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113986,
+                                "Descricao": "Alteração do colesterol ou Triglicérides",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113987,
+                                "Descricao": "Doenças pulmonares (Asma, Bronquite ou Enfisema)",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113988,
+                                "Descricao": "Alteração emocional - depressão, ansiedade e estresse",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113989,
+                                "Descricao": "Câncer de mama",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113990,
+                                "Descricao": "Câncer de próstata",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113991,
+                                "Descricao": "Câncer de intestino",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113992,
+                                "Descricao": "Câncer de útero ou ovário",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113993,
+                                "Descricao": "Acidente vacular cerebral (Derrame)",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114113,
+                                "Descricao": "Nenhuma das anteriores",
+                                "cdPerguntaDesvio": 104578,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104566,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Grupo": 1,
+            "DescricaoGrupo": "Sua Saúde",
+            "Ordem": 1,
+            "Ativo": true
+        },
+        {
+            "TipoAvaliacao": {
+                "cdTipoAvaliacao": 100141,
+                "Nome": "[GAMA] Portal - Autocuidado",
+                "Perguntas": [
+                    {
+                        "cdPergunta": 104578,
+                        "Titulo": "Nos últimos 3 meses, você se recorda de ter passado pelo pronto socorro?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 11,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114035,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104579,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104578,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114034,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104578,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104579,
+                        "Titulo": "Quantas vezes você precisou passar em pronto socorro?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 12,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114036,
+                                "Descricao": "1 a 3 vezes",
+                                "cdPerguntaDesvio": 104580,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104579,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114037,
+                                "Descricao": "4 a 6 vezes",
+                                "cdPerguntaDesvio": 104580,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104579,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114038,
+                                "Descricao": "7 ou mais",
+                                "cdPerguntaDesvio": 104580,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104579,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104580,
+                        "Titulo": "Você se lembra os principais motivos?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 13,
+                        "Ativo": true,
+                        "TipoPergunta": 2,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114039,
+                                "Descricao": "Problema cardiovascular",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114040,
+                                "Descricao": "Problema respiratório",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114041,
+                                "Descricao": "Problema ortopédico / muscular",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114042,
+                                "Descricao": "Problema gastrointestinal",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114043,
+                                "Descricao": "Problemas emocionais",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114044,
+                                "Descricao": "Dor crônica ou aguda",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114045,
+                                "Descricao": "Alterações da Hipertensão arterial",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113965
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114046,
+                                "Descricao": "Alterações do Diabetes Mellitus",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113964
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114047,
+                                "Descricao": "Alterações devido ao câncer mama",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113972
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114048,
+                                "Descricao": "Alterações devido ao câncer intestino",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113974
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114050,
+                                "Descricao": "Alterações devido ao câncer de próstata",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113973
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114051,
+                                "Descricao": "Outros",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114052,
+                                "Descricao": "Não lembro",
+                                "cdPerguntaDesvio": 104582,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104580,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104582,
+                        "Titulo": "Ao longo dos últimos 12 meses, você precisou ficar internado?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 14,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114054,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104583,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104582,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114055,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104582,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104583,
+                        "Titulo": "Quantas vezes você esteve internado?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 15,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114056,
+                                "Descricao": "1 vez",
+                                "cdPerguntaDesvio": 104584,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104583,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114057,
+                                "Descricao": "2 a 3 vezes",
+                                "cdPerguntaDesvio": 104584,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104583,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114058,
+                                "Descricao": "4 ou mais",
+                                "cdPerguntaDesvio": 104584,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104583,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104584,
+                        "Titulo": "Você se lembra os principais motivos da sua internação?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 16,
+                        "Ativo": true,
+                        "TipoPergunta": 2,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114059,
+                                "Descricao": "Problema cardiovascular",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114060,
+                                "Descricao": "Problema respiratório",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114061,
+                                "Descricao": "Problema ortopédico / muscular",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114062,
+                                "Descricao": "Problema  gastrointestinal",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114063,
+                                "Descricao": "Problemas emocionais",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114064,
+                                "Descricao": "Dor crônica ou aguda",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114065,
+                                "Descricao": "Alterações da Hipertensão arterial",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113965
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114066,
+                                "Descricao": "Alterações do Diabetes Mellitus",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113964
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114067,
+                                "Descricao": "Alterações devido ao câncer mama",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113972
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114068,
+                                "Descricao": "Alterações devido ao câncer de intestino",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114070,
+                                "Descricao": "Alterações devido ao câncer de próstata",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [
+                                    {
+                                        "cdTipoAvaliacao": 100138,
+                                        "cdPergunta": 104563,
+                                        "cdItemResposta": 113973
+                                    }
+                                ],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114071,
+                                "Descricao": "Outros",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114072,
+                                "Descricao": "Não lembro",
+                                "cdPerguntaDesvio": 104586,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104584,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104586,
+                        "Titulo": "Você faz acompanhamento da sua saúde e exames conforme orientação do seu médico?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 17,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114074,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104587,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104586,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114075,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104587,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104586,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114076,
+                                "Descricao": "As consultas e exames faço somente quando não me sinto bem",
+                                "cdPerguntaDesvio": 104587,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104586,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104587,
+                        "Titulo": "Você faz uso de medicamento de rotina?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 18,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114077,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104588,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104587,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114078,
+                                "Descricao": "Não, mas deveria usar",
+                                "cdPerguntaDesvio": 104591,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104587,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114079,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104591,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104587,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104588,
+                        "Titulo": "E segue a recomendação médica?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 19,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114080,
+                                "Descricao": "Sim, utilizo no horário e dosagem prescritos",
+                                "cdPerguntaDesvio": 104591,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104588,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114081,
+                                "Descricao": "Às vezes sigo a recomendação médica",
+                                "cdPerguntaDesvio": 104591,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104588,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114082,
+                                "Descricao": "Não sigo a recomendação médica",
+                                "cdPerguntaDesvio": 104591,
+                                "cdTipoAvaliacaoDesvio": 100141,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104588,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104591,
+                        "Titulo": "E o dentista? Você passou em consulta nos últimos 12 meses?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 22,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114087,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104576,
+                                "cdTipoAvaliacaoDesvio": 100140,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104591,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114088,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104576,
+                                "cdTipoAvaliacaoDesvio": 100140,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104591,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Grupo": 2,
+            "DescricaoGrupo": "Autocuidado",
+            "Ordem": 1,
+            "Ativo": true
+        },
+        {
+            "TipoAvaliacao": {
+                "cdTipoAvaliacao": 100140,
+                "Nome": "[GAMA] Portal - Emocional",
+                "Perguntas": [
+                    {
+                        "cdPergunta": 104576,
+                        "Titulo": "Em relação ao seu emocional, voce se sente deprimido ou sem esperança nos últimos 15 dias?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 23,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114026,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104577,
+                                "cdTipoAvaliacaoDesvio": 100140,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104576,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114027,
+                                "Descricao": "Ás vezes",
+                                "cdPerguntaDesvio": 104577,
+                                "cdTipoAvaliacaoDesvio": 100140,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104576,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114028,
+                                "Descricao": "Quase todos os dias",
+                                "cdPerguntaDesvio": 104577,
+                                "cdTipoAvaliacaoDesvio": 100140,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104576,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114029,
+                                "Descricao": "Todos os dias",
+                                "cdPerguntaDesvio": 104577,
+                                "cdTipoAvaliacaoDesvio": 100140,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104576,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104577,
+                        "Titulo": "Tem sentido pouco interesse ou prazer nas atividades do dia-a-dia, nos últimos 15 dias?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 24,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114030,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104592,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104577,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114031,
+                                "Descricao": "Ás vezes",
+                                "cdPerguntaDesvio": 104592,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104577,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114032,
+                                "Descricao": "Quase todos os dias",
+                                "cdPerguntaDesvio": 104592,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104577,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114033,
+                                "Descricao": "Todos os dias",
+                                "cdPerguntaDesvio": 104592,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104577,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Grupo": 2,
+            "DescricaoGrupo": "Autocuidado",
+            "Ordem": 2,
+            "Ativo": true
+        },
+        {
+            "TipoAvaliacao": {
+                "cdTipoAvaliacao": 100142,
+                "Nome": "[GAMA] Portal - Alimentação",
+                "Perguntas": [
+                    {
+                        "cdPergunta": 104592,
+                        "Titulo": "Em média, você come ao menos 5 porções de frutas e/ou folhas verdes todos os dias?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 25,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114089,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104593,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104592,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114090,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104593,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104592,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104593,
+                        "Titulo": "Você faz pelo menos 3 refeições/dia?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 26,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114091,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104594,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104593,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114092,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104594,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104593,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104594,
+                        "Titulo": "Você tem o hábito de acrescentar sal quando a comida está no prato?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 27,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114093,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104595,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104594,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114094,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104595,
+                                "cdTipoAvaliacaoDesvio": 100142,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104594,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104595,
+                        "Titulo": "Você bebe pelo menos 6 a 8 copos de água diariamente?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 29,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114095,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104568,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104595,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114096,
+                                "Descricao": "Não",
+                                "cdPerguntaDesvio": 104568,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104595,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114097,
+                                "Descricao": "Restrição médica",
+                                "cdPerguntaDesvio": 104568,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104595,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Grupo": 3,
+            "DescricaoGrupo": "Hábitos",
+            "Ordem": 1,
+            "Ativo": true
+        },
+        {
+            "TipoAvaliacao": {
+                "cdTipoAvaliacao": 100139,
+                "Nome": "[GAMA] Portal - Hábitos",
+                "Perguntas": [
+                    {
+                        "cdPergunta": 104568,
+                        "Titulo": "Quantas vezes por semana pratica atividade física moderada por pelo menos 30min/dia?",
+                        "Descricao": "",
+                        "Obrigatorio": true,
+                        "Ordem": 29,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 113997,
+                                "Descricao": "Nenhum",
+                                "cdPerguntaDesvio": 104569,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104568,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113998,
+                                "Descricao": "Uma vez",
+                                "cdPerguntaDesvio": 104569,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104568,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 113999,
+                                "Descricao": "Duas vezes",
+                                "cdPerguntaDesvio": 104569,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104568,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114000,
+                                "Descricao": "Três vezes ou mais",
+                                "cdPerguntaDesvio": 104569,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104568,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114001,
+                                "Descricao": "Não posso fazer atividade física devido à restrição médica",
+                                "cdPerguntaDesvio": 104569,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104568,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104569,
+                        "Titulo": "Durante a semana (segunda a sexta-feira), seu consumo de bebidas alcoólicas corresponde a:",
+                        "Descricao": "Uma dose equivale a: 1 taça de vinho cheia (150 ml ou 1 copo plástico de água pequeno), 1 lata de cerveja (350 ml), 1 dose de bebida destilada (1 copinho de plástico de café) ",
+                        "Obrigatorio": true,
+                        "Ordem": 30,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114002,
+                                "Descricao": "Não consome",
+                                "cdPerguntaDesvio": 104570,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104569,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114003,
+                                "Descricao": "Até 5 doses/semana",
+                                "cdPerguntaDesvio": 104570,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104569,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114004,
+                                "Descricao": "De 6 a 14 doses/semana",
+                                "cdPerguntaDesvio": 104570,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104569,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114005,
+                                "Descricao": "15 doses ou mais",
+                                "cdPerguntaDesvio": 104570,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104569,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104570,
+                        "Titulo": "No final de semana (sábado e domingo), seu consumo de bebidas alcoólicas corresponde a:",
+                        "Descricao": "Uma dose equivale a: 1 taça de vinho cheia (150 ml ou 1 copo plástico de água pequeno), 1 lata de cerveja (350 ml), 1 dose de bebida destilada (1 copinho de plástico de café) ",
+                        "Obrigatorio": true,
+                        "Ordem": 31,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114006,
+                                "Descricao": "Não Consumo",
+                                "cdPerguntaDesvio": 104571,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104570,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114007,
+                                "Descricao": "Até 2 doses/final de semana",
+                                "cdPerguntaDesvio": 104571,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104570,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114008,
+                                "Descricao": "De 3 a 5 doses/final de semana",
+                                "cdPerguntaDesvio": 104571,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104570,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114009,
+                                "Descricao": "6 ou mais/final de semana",
+                                "cdPerguntaDesvio": 104571,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104570,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104571,
+                        "Titulo": "Você fuma?",
+                        "Descricao": "(Cigarro, Narguile, Charuto, Cachimbo entre outros)",
+                        "Obrigatorio": true,
+                        "Ordem": 32,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114010,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104572,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104571,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114011,
+                                "Descricao": "Nunca fumei",
+                                "cdPerguntaDesvio": 104572,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104571,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114012,
+                                "Descricao": "Já parei de fumar",
+                                "cdPerguntaDesvio": 104572,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104571,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104572,
+                        "Titulo": "Considerando o seu estilo de vida atual, você pensa em mudar nos próximos 6 meses?",
+                        "Descricao": " Focar em Hábitos como atividade física, alimentação, lazer, entre outros.",
+                        "Obrigatorio": true,
+                        "Ordem": 33,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114015,
+                                "Descricao": "Não/Talvez",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104572,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114016,
+                                "Descricao": "Já realizei mudanças necessárias em minha vida",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104572,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114013,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104573,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104572,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114014,
+                                "Descricao": "Estou tentando mudar",
+                                "cdPerguntaDesvio": 104574,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104572,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104573,
+                        "Titulo": "E nos próximos 30 dias?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 34,
+                        "Ativo": true,
+                        "TipoPergunta": 1,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114017,
+                                "Descricao": "Sim",
+                                "cdPerguntaDesvio": 104574,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104573,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114018,
+                                "Descricao": "Não/Talvez",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104573,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104574,
+                        "Titulo": "Em qual(is) âmbito(s) você quer melhorar?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 35,
+                        "Ativo": true,
+                        "TipoPergunta": 2,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114019,
+                                "Descricao": "Aumentar a atividade física",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104574,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114020,
+                                "Descricao": "Perder peso",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104574,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114021,
+                                "Descricao": "Ter uma dieta mais saudável",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104574,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114022,
+                                "Descricao": "Lidar melhor com o estresse",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104574,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114023,
+                                "Descricao": "Reduzir o uso de bebidas alcoólicas",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104574,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            },
+                            {
+                                "cdItemResposta": 114024,
+                                "Descricao": "Outros",
+                                "cdPerguntaDesvio": 104575,
+                                "cdTipoAvaliacaoDesvio": 100139,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104574,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    },
+                    {
+                        "cdPergunta": 104575,
+                        "Titulo": "Quais outros hábitos?",
+                        "Descricao": "",
+                        "Obrigatorio": false,
+                        "Ordem": 36,
+                        "Ativo": true,
+                        "TipoPergunta": 4,
+                        "ItensResposta": [
+                            {
+                                "cdItemResposta": 114025,
+                                "Descricao": ".",
+                                "cdPerguntaDesvio": null,
+                                "cdTipoAvaliacaoDesvio": null,
+                                "Resposta": null,
+                                "Pergunta": {
+                                    "cdPergunta": 104575,
+                                    "TipoAvaliacao": null
+                                },
+                                "Condicionais": [],
+                                "ValorMinimo": "",
+                                "ValorMaximo": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Grupo": 3,
+            "DescricaoGrupo": "Hábitos",
+            "Ordem": 2,
+            "Ativo": true
+        }
+    ]
+}
